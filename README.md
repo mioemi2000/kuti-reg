@@ -1,1 +1,3 @@
 # kuti-reg
+
+editing readme
